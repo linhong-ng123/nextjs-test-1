@@ -27,8 +27,7 @@ export default function Home() {
       {/* Hero Section */}
       <section className="container mx-auto px-6 py-20 text-center">
         <h1 className="text-5xl md:text-6xl font-bold text-gray-900 dark:text-white mb-6">
-          Build Something
-          <span className="block text-blue-600 dark:text-blue-400">Amazing Today</span>
+          Build Demo 1
         </h1>
         <p className="text-xl text-gray-600 dark:text-gray-300 mb-8 max-w-2xl mx-auto">
           The modern platform that helps you create, deploy, and scale your ideas faster than ever before.
